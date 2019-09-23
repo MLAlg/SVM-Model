@@ -1,5 +1,5 @@
 # SVC- Classifier
-Support Vector Classifier, 
+Support Vector Classifier 
 
 problem: supervised learning,
 
